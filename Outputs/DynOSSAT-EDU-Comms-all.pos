@@ -1,0 +1,34 @@
+### Module positions - created on 10/15/20 10:51:15 ###
+### Printed by Pcbnew version kicad (5.1.6)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                   PosX       PosY       Rot  Side
+J2        Conn_02x20_Odd_Even      PinSocket_2x20_P1.27mm_Vertical_SMD  -148.9710   -92.4560  270.0000  bottom
+C1        10uF                     C_0603_1608Metric                     146.0754   -97.4090    0.0000  top
+C2        100nF                    C_0402_1005Metric                     152.9842  -102.7430  180.0000  top
+C3        10uF                     C_0603_1608Metric                     148.8694  -100.0760  270.0000  top
+C4        100nF                    C_0402_1005Metric                     135.0010  -127.2540  270.0000  top
+C5        DNP                      C_0402_1005Metric                     168.0210  -105.1306    0.0000  top
+C6        DNP                      C_0402_1005Metric                     167.9956  -106.0958    0.0000  top
+C8        100nF                    C_0402_1005Metric                     143.6624  -104.2670   90.0000  top
+D1        LED                      LED_0603_1608Metric                   163.0172   -90.2208  270.0000  top
+J1        Conn_02x20_Odd_Even      PinHeader_2x20_P1.27mm_Vertical_SMD   148.9710   -92.4560   90.0000  top
+J4        Conn_Coaxial             U.FL_Hirose_U.FL-R-SMT-1_Vertical     167.5130  -108.8390  270.0000  top
+J5        USB_C_Receptacle_USB2.0  U262-161N-4BVC11                      135.2804   -98.2980  270.0000  top
+L1        0R                       L_0402_1005Metric                     166.5478  -105.6132  270.0000  top
+Q1        DMG2305L                 SOT-23                                152.5905  -100.2665   90.0000  top
+Q2        DMG2305L                 SOT-23                                138.6840   -99.0600  180.0000  top
+R1        100k                     R_0402_1005Metric                     165.3286  -100.4570  270.0000  top
+R2        47k                      R_0402_1005Metric                     145.4404  -104.2670  270.0000  top
+R3        47k                      R_0402_1005Metric                     146.9644  -104.2670  270.0000  top
+R4        5.1k                     R_0402_1005Metric                     132.7912   -95.5802  270.0000  top
+R5        100k                     R_0402_1005Metric                     143.3830  -100.0760   90.0000  top
+R6        5.1k                     R_0402_1005Metric                     131.7244   -95.5802  270.0000  top
+R7        100k                     R_0402_1005Metric                     139.3190  -101.4730  180.0000  top
+R8        510R                     R_0402_1005Metric                     163.2204   -92.7608   90.0000  top
+SW1       SW_Push                  1TS002G-1800-3500-CT                  167.0050   -99.3140   90.0000  top
+U1        ME6211C33                SOT-23-5                              145.9992  -100.0760    0.0000  top
+U2        RFM96                    HOPERF_RFM69HW                        156.3370  -114.3000   90.0000  top
+U3        SKB369                   SKYLAB_SKB369                         136.6520  -116.3320   90.0000  top
+U4        CH340E                   MSOP-10_3x3mm_P0.5mm                  139.5222  -104.5210    0.0000  top
+## End
